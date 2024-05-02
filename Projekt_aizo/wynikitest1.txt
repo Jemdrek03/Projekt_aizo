@@ -1,0 +1,14 @@
+Sortowanie przez wstawianie binarne:
+Rozmiar tablicy: 10000 -> 2.3251 ms
+Sortowanie przez wstawianie binarne:
+Rozmiar tablicy: 20000 -> 10.2071 ms
+Sortowanie przez wstawianie binarne:
+Rozmiar tablicy: 30000 -> 18.9587 ms
+Sortowanie przez wstawianie binarne:
+Rozmiar tablicy: 50000 -> 55.0996 ms
+Sortowanie przez wstawianie binarne:
+Rozmiar tablicy: 70000 -> 122.783 ms
+Sortowanie przez wstawianie binarne:
+Rozmiar tablicy: 90000 -> 192.394 ms
+Sortowanie przez wstawianie binarne:
+Rozmiar tablicy: 120000 -> 315.612 ms
